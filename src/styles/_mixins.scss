@@ -1,0 +1,7 @@
+// In Sass, mixins are a way to group and reuse CSS declarations.
+
+@mixin smallDeviceSize {// '@mixin' directive is used to create a mixin
+	@media only screen and (max-width: 768px) {
+		@content;// '@content' directive is used to insert the content passed into the mixin when it is used.
+	}
+}
