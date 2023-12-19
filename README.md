@@ -16,3 +16,4 @@ Complete Todo Application using `React.js` and to manage our states, we will use
 - React Hot Toast
 - More...
 every component, function and element is well explained and detailed via comments :)  
+[try the app](https://todo-list40.netlify.app/)
